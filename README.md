@@ -1,5 +1,7 @@
 # Generative AI 101
 
+Explore the fundamentals of generative AI in this introductory course, covering its core principles, applications, and underlying technologies. Delve into various AI modalities, examine real-world uses, and navigate the ethical landscape shaping AI's future
+
 ## Course Overview
 
 - Introduce the basics of generative AI, including its principles and applications.
