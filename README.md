@@ -46,22 +46,22 @@ Explore the fundamentals of generative AI in this introductory course, covering 
 - Applications in art, design, and more
 - Open-source models and how to use them.
 
-### Lesson 7: Voice Generation and Voice-to-Text
+### Lesson 7: Embedding Generation
+
+- Role of embeddings in similarity search, recommendation systems
+- Techniques for generating embeddings
+- Open-source models and how to use them.
+
+### Lesson 8: Voice Generation and Voice-to-Text
 
 - Text-to-Speech (TTS) and Speech-to-Text (STT) technologies
 - Use cases in virtual assistants, audiobooks, etc.
 - Open-source models and how to use them.
 
-### Lesson 8: Video Generation
+### Lesson 9: Video Generation
 
 - Techniques for generating and manipulating videos
 - Applications in entertainment and education
-- Open-source models and how to use them.
-
-### Lesson 9: Embedding Generation
-
-- Role of embeddings in similarity search, recommendation systems
-- Techniques for generating embeddings
 - Open-source models and how to use them.
 
 ### Lesson 10: Multi-Modal Generative AI
